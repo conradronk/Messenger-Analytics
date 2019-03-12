@@ -12,7 +12,7 @@ Comments & Scraps from that used to live on the .py – will delete as I take im
 # 		word_counts[word] += 1
 # 	else:
 # 		word_counts[word] = 1
-
+ 
 #also from the Grus book, on page 24
 # from collections import counter
 # c = Counter([0,0,0,1,1] # I think this one gives the number of occurrences of each item in the list, with the key being the item, and the value (in a dict that is returned) being the number of occurences
