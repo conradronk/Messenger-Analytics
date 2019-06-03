@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
-show_downloads: True
+title: Conrad Ronk
+description: Portfolio Site
+show_downloads: False
 navigation:
   - title: Home
-    url: /
-  - title: Setup
-    url: setup
+    url: https://conradronk.github.io/
+  - title: Transit Exploration
+    url: https://conradronk.github.io/Transit-Data-Exploration/
+  - title: FB Messenger Analytics
+    url: https://conradronk.github.io/Messenger-Analytics/
